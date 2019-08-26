@@ -17,4 +17,4 @@ dependencies:
   - paragraphs
   - user
   - views
-package: 'Kuntafibase'
+package: 'kuntafibase'
